@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "farmadditions:blocks/crate_side",
+    "north": "farmadditions:blocks/crate_side",
+    "south": "farmadditions:blocks/crate_side",
+    "east": "farmadditions:blocks/crate_side",
+    "west": "farmadditions:blocks/crate_side",
+    "up": "farmadditions:blocks/crate_top_opuntia2",
+    "down": "farmadditions:blocks/crate_side"
+  }
+}

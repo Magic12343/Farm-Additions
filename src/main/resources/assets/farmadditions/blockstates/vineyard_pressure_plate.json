@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "farmadditions:block/vineyard_pressure_plate_up"
+    },
+    "powered=true": {
+      "model": "farmadditions:block/vineyard_pressure_plate_down"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+	"texture_size": [22, 16],
+	"textures": {
+		"0": "farmadditions:blocks/vineyard_wood",
+		"particle": "farmadditions:blocks/vineyard_wood"
+	},
+	"elements": [
+		{
+			"name": "vineyard_wood",
+			"from": [5, 0, 5],
+			"to": [11, 16, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [13, 8, 13]},
+			"faces": {
+				"north": {"uv": [0, 0, 4.36364, 16], "texture": "#0"},
+				"east": {"uv": [0, 0, 4.36364, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 4.36364, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 4.36364, 16], "texture": "#0"},
+				"up": {"uv": [4.36364, 0, 8.72655, 6], "texture": "#0"},
+				"down": {"uv": [4.36364, 0, 8.72655, 6], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 0.25, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 0.25, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_righthand": {
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_lefthand": {
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"ground": {
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"gui": {
+			"rotation": [21, -45, 0],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"fixed": {
+			"scale": [0.5, 0.5, 0.5]
+		}
+	}
+}

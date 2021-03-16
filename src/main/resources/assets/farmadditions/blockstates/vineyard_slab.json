@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "farmadditions:block/vineyard_slab"
+    },
+    "type=double": {
+      "model": "farmadditions:block/vineyard_planks"
+    },
+    "type=top": {
+      "model": "farmadditions:block/vineyard_slab_top"
+    }
+  }
+}

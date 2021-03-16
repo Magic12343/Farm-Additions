@@ -1,0 +1,79 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "farmadditions:blocks/opuntia_cactus",
+		"particle": "farmadditions:blocks/opuntia_cactus"
+	},
+	"elements": [
+		{
+			"from": [5, 0, 7],
+			"to": [11, 4, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [16, 8, 15]},
+			"faces": {
+				"north": {"uv": [1, 7, 2.5, 8], "texture": "#0"},
+				"east": {"uv": [0.25, 7, 1, 8], "texture": "#0"},
+				"south": {"uv": [3.25, 7, 4.75, 8], "texture": "#0"},
+				"west": {"uv": [2.5, 7, 3.25, 8], "texture": "#0"},
+				"up": {"uv": [2.5, 7, 1, 6.25], "texture": "#0"},
+				"down": {"uv": [4, 6.25, 2.5, 7], "texture": "#0"}
+			}
+		},
+		{
+			"from": [9, 0, 6],
+			"to": [9, 4, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [16, 8, 14]},
+			"faces": {
+				"north": {"uv": [14.75, 7.75, 14.75, 8.75], "texture": "#0"},
+				"east": {"uv": [13.5, 7.75, 14.75, 8.75], "texture": "#0"},
+				"south": {"uv": [16, 7.75, 16, 8.75], "texture": "#0"},
+				"west": {"uv": [14.75, 7.75, 16, 8.75], "texture": "#0"},
+				"up": {"uv": [14.75, 7.75, 14.75, 6.5], "texture": "#0"},
+				"down": {"uv": [14.75, 6.5, 14.75, 7.75], "texture": "#0"}
+			}
+		},
+		{
+			"from": [7, 0, 6],
+			"to": [7, 4, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [14, 8, 14]},
+			"faces": {
+				"north": {"uv": [14.75, 7.75, 14.75, 8.75], "texture": "#0"},
+				"east": {"uv": [13.5, 7.75, 14.75, 8.75], "texture": "#0"},
+				"south": {"uv": [16, 7.75, 16, 8.75], "texture": "#0"},
+				"west": {"uv": [14.75, 7.75, 16, 8.75], "texture": "#0"},
+				"up": {"uv": [14.75, 7.75, 14.75, 6.5], "texture": "#0"},
+				"down": {"uv": [14.75, 6.5, 14.75, 7.75], "texture": "#0"}
+			}
+		},
+		{
+			"from": [4, 0, 8],
+			"to": [12, 4, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [19, 8, 15]},
+			"faces": {
+				"north": {"uv": [12, 3.25, 14, 4.25], "texture": "#0"},
+				"east": {"uv": [12, 3.25, 12, 4.25], "texture": "#0"},
+				"south": {"uv": [14, 3.25, 16, 4.25], "texture": "#0"},
+				"west": {"uv": [14, 3.25, 14, 4.25], "texture": "#0"},
+				"up": {"uv": [14, 3.25, 12, 3.25], "texture": "#0"},
+				"down": {"uv": [16, 3.25, 14, 3.25], "texture": "#0"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "cactus",
+			"origin": [16, 18, 15],
+			"children": [0]
+		},
+		{
+			"name": "spikes",
+			"origin": [8, 8, 8],
+			"children": [1, 2, 3]
+		},
+		{
+			"name": "Fruit",
+			"origin": [8, 8, 8],
+			"children": []
+		}
+	]
+}

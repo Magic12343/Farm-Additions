@@ -1,0 +1,14 @@
+modLoader="javafml"
+loaderVersion="[35,)"
+license="Creative Commons"
+
+[[mods]]
+modId="farmadditions"
+version="1.0.0"
+displayName="Farm Additions"
+credits="Thanks to Avalon Team and my Twitter Followers."
+authors="Avalon Team."
+description='''
+Explore new biomes, find new plants, craft some new food, 
+welcome to Avalon Mods: Farm Additions!
+'''

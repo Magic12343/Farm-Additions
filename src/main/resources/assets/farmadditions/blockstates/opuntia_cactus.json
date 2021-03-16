@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "age=0": {
+      "model": "farmadditions:block/opuntia_stage0"
+    },
+    "age=1": {
+      "model": "farmadditions:block/opuntia_stage1"
+    },
+    "age=2": {
+      "model": "farmadditions:block/opuntia_stage2"
+    },
+    "age=3": {
+      "model": "farmadditions:block/opuntia_stage3"
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "farmadditions:blocks/light_blue_cotton_block"
+  }
+}

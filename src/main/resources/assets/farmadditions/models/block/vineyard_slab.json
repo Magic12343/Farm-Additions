@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "farmadditions:blocks/vineyard_planks",
+    "top": "farmadditions:blocks/vineyard_planks",
+    "side": "farmadditions:blocks/vineyard_planks"
+  }
+}

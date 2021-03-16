@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/door_bottom",
+  "textures": {
+    "top": "farmadditions:blocks/vineyard_door_top",
+    "bottom": "farmadditions:blocks/vineyard_door_bottom"
+  }
+}

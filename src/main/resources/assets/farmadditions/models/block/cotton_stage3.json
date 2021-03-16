@@ -1,0 +1,6 @@
+{
+    "parent": "block/crop",
+    "textures": {
+        "crop": "farmadditions:blocks/cotton_stage3"
+    }
+}

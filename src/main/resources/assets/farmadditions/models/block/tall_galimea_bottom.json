@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "farmadditions:blocks/tall_galimea_bottom"
+  }
+}

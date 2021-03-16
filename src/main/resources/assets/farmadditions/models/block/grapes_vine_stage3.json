@@ -1,0 +1,8 @@
+{
+	"parent": "farmadditions:block/grapes_vine_base",
+	"textures": {
+		"particle": "farmadditions:blocks/grapes_vine_stage3",
+		"vine": "farmadditions:blocks/grapes_vine_stage3",
+		"overlay": "farmadditions:blocks/grapes_vine_stage3"
+	}
+}

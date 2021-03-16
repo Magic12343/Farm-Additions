@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "farmadditions:blocks/lime_cotton_block"
+  }
+}
