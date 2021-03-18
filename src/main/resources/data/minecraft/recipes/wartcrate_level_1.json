@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "farmadditions:empty_crate"
+    },
+    {
+      "item": "minecraft:wart"
+    },
+    {
+      "item": "minecraft:wart"
+    },
+    {
+      "item": "minecraft:wart"
+    },
+    {
+      "item": "minecraft:wart"
+    },
+    {
+      "item": "minecraft:wart"
+    },
+    {
+      "item": "minecraft:wart"
+    },
+    {
+      "item": "minecraft:wart"
+    },
+    {
+      "item": "minecraft:wart"
+    }
+  ],
+  "result": {
+    "item": "farmadditions:low_wart_crate",
+    "count": 1
+  }
+}

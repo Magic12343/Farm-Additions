@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "farmadditions:medium_beetrot_crate"
+    },
+    {
+      "item": "minecraft:beetrot"
+    },
+    {
+      "item": "minecraft:beetrot"
+    },
+    {
+      "item": "minecraft:beetrot"
+    },
+    {
+      "item": "minecraft:beetrot"
+    },
+    {
+      "item": "minecraft:beetrot"
+    },
+    {
+      "item": "minecraft:beetrot"
+    },
+    {
+      "item": "minecraft:beetrot"
+    },
+    {
+      "item": "minecraft:beetrot"
+    }
+  ],
+  "result": {
+    "item": "farmadditions:full_beetrot_crate",
+    "count": 1
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "farmadditions:blocks/galimea_sprouts"
+  }
+}
+
+FlowerPotBlock(POISE_BUSH.get(), Properties.from(Blocks.POTTED_PINK_TULIP)));

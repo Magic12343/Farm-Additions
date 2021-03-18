@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "farmadditions:blocks/galiamus_top",
+    "side": "farmadditions:blocks/galiamus"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=lower": {
+      "model": "farmadditions:block/tall_stardrop_bottom"
+    },
+    "half=upper": {
+      "model": "farmadditions:block/tall_stardrop_top"
+    }
+  }
+}

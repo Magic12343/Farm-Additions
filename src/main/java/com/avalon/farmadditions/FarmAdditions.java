@@ -10,11 +10,15 @@ import com.avalon.farmadditions.world.OreGeneration;
 import net.minecraft.entity.item.PaintingType;
 import net.minecraft.item.ItemGroup;
 import net.minecraft.item.ItemStack;
+import net.minecraft.world.biome.Biome;
 import net.minecraftforge.common.MinecraftForge;
+import net.minecraftforge.event.RegistryEvent;
 import net.minecraftforge.event.RegistryEvent.Register;
 import net.minecraftforge.eventbus.api.EventPriority;
 import net.minecraftforge.eventbus.api.IEventBus;
+import net.minecraftforge.eventbus.api.SubscribeEvent;
 import net.minecraftforge.fml.common.Mod;
+import net.minecraftforge.fml.common.Mod.EventBusSubscriber.Bus;
 import net.minecraftforge.fml.event.lifecycle.FMLCommonSetupEvent;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 import net.minecraftforge.registries.IForgeRegistry;
@@ -57,8 +61,11 @@ public class FarmAdditions
 		    private PaintingType createPainting (String id, int width, int height) {
 		        
 		        final PaintingType type = new PaintingType(width, height);
-		        type.setRegistryName("glasscraftery", id);
+		        type.setRegistryName("farmadditions", id);
 		        return type;
 		    }
+		    
+		    
+		  
 	}
 

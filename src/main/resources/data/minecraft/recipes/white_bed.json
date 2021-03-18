@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "bed",
+  "pattern": [
+    "Y##",
+    "XXX"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:white_wool"
+    },
+	"Y": {
+      "item": "farmadditions:white_cotton_block"
+    },
+    "X": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "result": {
+    "item": "minecraft:white_bed"
+  }
+}

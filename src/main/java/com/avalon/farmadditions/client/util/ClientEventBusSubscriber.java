@@ -18,7 +18,17 @@ public class ClientEventBusSubscriber {
 	public static void clientSetup(FMLClientSetupEvent event) {
 
 
-		RenderTypeLookup.setRenderLayer(BlockInit.GLASS_CHAIN.get(), RenderType.getCutoutMipped());
+		RenderTypeLookup.setRenderLayer(BlockInit.PALM_TOP.get(), RenderType.getCutoutMipped());
+		RenderTypeLookup.setRenderLayer(BlockInit.ROSE.get(), RenderType.getCutout());
+		RenderTypeLookup.setRenderLayer(BlockInit.COTTON_CROP.get(), RenderType.getCutout());
+		RenderTypeLookup.setRenderLayer(BlockInit.BOUGAINVILLEA.get(), RenderType.getCutout());
+		RenderTypeLookup.setRenderLayer(BlockInit.GRAPES_VINE.get(), RenderType.getCutout());
+		RenderTypeLookup.setRenderLayer(BlockInit.TALL_GALIMEA.get(), RenderType.getCutout());
+		RenderTypeLookup.setRenderLayer(BlockInit.OPUNTIA_CACTUS.get(), RenderType.getCutout());
+		RenderTypeLookup.setRenderLayer(BlockInit.GLOW_WORMS.get(), RenderType.getCutout());
+		RenderTypeLookup.setRenderLayer(BlockInit.STARDROP.get(), RenderType.getCutout());
+		RenderTypeLookup.setRenderLayer(BlockInit.TALL_STARDROP.get(), RenderType.getCutout());
+		RenderTypeLookup.setRenderLayer(BlockInit.GALIMEA_SPROUTS.get(), RenderType.getCutout());
 		
 
 ;

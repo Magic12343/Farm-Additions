@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "farmadditions:full_apple_crate"
+    }
+  ],
+  "result": {
+    "item": "minecraft:apple",
+    "count": 24
+  }
+}
